@@ -14,6 +14,7 @@
 
 [github安装以及使用](https://github.com/663008381/cloud-computing/tree/master/test1)
 
-github desktop
+使用github desktop减去中间繁琐的代码过程
 
 ![](./image/4.png)
+
