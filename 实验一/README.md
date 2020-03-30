@@ -1,4 +1,4 @@
-# 实验一
+# 实验一  创建第一个Android工程并同步GitHub
 
 ### 任务1：安装Android Studio
 
