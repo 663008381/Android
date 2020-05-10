@@ -1,0 +1,2 @@
+include ':ImplicitIntentDemo', ':mybrowser'
+rootProject.name='Intenttest01'
